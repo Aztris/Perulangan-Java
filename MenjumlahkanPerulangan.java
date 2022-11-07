@@ -8,7 +8,7 @@ public class MenjumlahkanPerulangan {
         int z;
         int jumlah=0;
         
-        System.out.print("Iput batas : ");
+        System.out.print("Input batas : ");
         z= input.nextInt();
         
         do{

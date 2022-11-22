@@ -1,5 +1,3 @@
-package SoalPakMosses;
-
 public class PerulanganLili {
     public static void main(String[] args) {
         
